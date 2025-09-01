@@ -10,13 +10,7 @@ This repository contains my learning and practice code from **JavaScript Basics*
 - `03_ConversionOperation.js` → Type Conversion
 - `String.js` → String handling and methods
 
-### nums_and_maths.js
-This file demonstrates **JavaScript Numbers and Math operations**.  
-Topics covered:
-- Declaring and working with numbers
-- Arithmetic operations (`+`, `-`, `*`, `/`, `%`)
-- Using built-in `Math` object (e.g., `Math.round`, `Math.floor`, `Math.random`)
-- Handling precision with floating-point numbers
+
 
 
 ## 💻 How to Run
